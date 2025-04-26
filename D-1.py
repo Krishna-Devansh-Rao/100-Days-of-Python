@@ -36,12 +36,12 @@
 # c = "rao"
 # print(len(a) * len(b) + len(c))
 
-# ###Project Day -1 ###
+               ###Project Day -1 ###
 
-# print("Welcome to the Bussiness name Generator")
-# a = input("What is the first name of your bussiness ? \n")
-# print("Okay so " + a + " is the first name of your bussiness")
-# b = input("What is the last name of your bussiness ? \n")
-# print("Your bussiness name is " + (a + " " + b))
+print("Welcome to the Bussiness name Generator")
+a = input("What is the first name of your bussiness ? \n")
+print("Okay so " + a + " is the first name of your bussiness")
+b = input("What is the last name of your bussiness ? \n")
+print("Your bussiness name is " + (a + " " + b))
 
 
