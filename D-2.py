@@ -31,6 +31,11 @@
 # # # # # print(type("No of letters in your name is: " ))
 # # # # # print(type( lenght_of_the_name))
 
+ # #PEMDAS
+# # # PARANTHESES , EXPONENTS , MULTIPLICATION/DIVISION , ADDITION / SUBTRACTION
+
+# # #     (  ) ,          **  ,          *         /           +             - 
+
 
 # # # # print("My age : " + str(18))
 # # # # a = print(6 / 3 )
